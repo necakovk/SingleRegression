@@ -1,8 +1,10 @@
 '''
-This is an extremely messy collaborative document for the AI & ML course at MPS
-2-19-20
+The purpose of this document is to model linear regression, comparing hours spent studying with scores on a test.
+Data from: http://www.scholastic.com/unexpectedmath/pdfs/Actuarial8_68_StudyTime.pdf
+2/27/2020
+Kaitlin Necakov
+
 '''
-http://www.scholastic.com/unexpectedmath/pdfs/Actuarial8_68_StudyTime.pdf
 
 import numpy as np
 import matplotlib.pyplot as plt
